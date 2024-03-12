@@ -18,7 +18,7 @@ while True:
     print("4. División")
     print("5. Salir")
 
-    opcion = input("Ingrese el número de la operación que desea realizar")
+    opcion = input("Ingrese el número de la operación que desea realizar: ")
 
     if opcion == "5":
         print("Saliendo de la calculadora")
